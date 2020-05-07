@@ -1,0 +1,2 @@
+# kicadfootprints
+Custom KiCad footprints
