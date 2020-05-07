@@ -1,2 +1,2 @@
 # kicadfootprints
-Custom KiCad footprints
+These are some KiCad footprints I've created. 
