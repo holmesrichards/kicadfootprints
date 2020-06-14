@@ -1,5 +1,5 @@
-(module "Gate Grinder:Jack_6.35mm_PJ_629HAN" (layer F.Cu) (tedit 5EB473D7)
-  (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
+(module "Gate Grinder:Jack_6.35mm_PJ_629HAN" (layer F.Cu) (tedit 5EB5F0DE)
+  (fp_text reference REF** (at 0 -10.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Jack_6.35mm_PJ_629HAN (at 0 10) (layer F.Fab)
